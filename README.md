@@ -1,7 +1,6 @@
-- 👋 Hi, Dr. Asim
-- 👀 Interested in Machine Learning, Deep Learning and Computer Vision
-- 💞️ I’m looking to collaborate on DL research
-- 📫 How to reach me asim . wagan @ jinnah . edu
+- 👋 Hi, My name is Dr. Asim Imdad and I am the Professor of CS at MAJU.
+- 👀 My research interest is in Machine Learning, Deep Learning and Computer Vision
+- 📫 You can reach me at asim . wagan @ jinnah . edu
 
 <!---
 AsimWaganMAJU/AsimWaganMAJU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
